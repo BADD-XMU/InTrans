@@ -1,4 +1,4 @@
-** This hub redirects to [https://github.com/BADD-XMU/TransIntegrator](https://github.com/BADD-XMU/TransIntegrator)
+** This hub redirects to [https://github.com/BADD-XMU/TransIntegrator](https://github.com/BADD-XMU/TransIntegrator) **
 ## TransIntegrator ： a pipeline for integrative transcript library construction
 ###
  Integrative transcript library for <em>Branchiostoma floridae</em> (www.bio-add.org/InTrans/)
